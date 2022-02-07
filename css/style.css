@@ -8,6 +8,8 @@ body {
     margin: 0;
 }
 
+/* Designing the Hero Section i.e. the head section of the page */
+
 .container-hero {
     background-color: #1f2937;
     height: 60vh;
@@ -82,3 +84,8 @@ li a {
     border-radius: 8px;
     border: none;
 }
+
+/* Done with the Hero design */
+/* About to design the next section, this section contains 
+a heading with some illustrations and subtexts*/
+
