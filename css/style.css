@@ -12,7 +12,7 @@ body {
 
 .container-hero {
     background-color: #1f2937;
-    height: 60vh;
+    height: 450px;
     display: flex;
     justify-content: center;
 }
@@ -54,7 +54,7 @@ li a {
 
 .main, .img {
     width: 400px;
-    margin: 40px auto;
+    margin: 80px auto;
 }
 
 .main {
@@ -88,4 +88,43 @@ li a {
 /* Done with the Hero design */
 /* About to design the next section, this section contains 
 a heading with some illustrations and subtexts*/
+
+.container-info {
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-one {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.card {
+    height: 170px;
+    width: 165px;
+    border: #3882f6 solid 4px;
+    border-radius: 10px;
+}
+
+/* Done with info design */
+
+/* to begin next section */
 
